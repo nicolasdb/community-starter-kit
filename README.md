@@ -1,10 +1,16 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+
+ -    What the project does
+ -    The features and benefits of the project
+ 
+
 
 ## What it does
 
-FEATURES PLACEHOLDER
+   -   How users can get started with the project
+    -   Where users can get help with your project
+ -   Who maintains and contributes to the project
 
 ## Getting started
 
